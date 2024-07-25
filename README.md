@@ -69,5 +69,3 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 
 #### Contributions are much appreciated :)
 
-
-#### "Suggestions and project improvement ideas are welcomed!"
